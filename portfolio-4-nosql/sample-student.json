@@ -1,0 +1,1 @@
+{"matric_no": "MIV/2026/001", "name": "Jane Doe", "department": "Computer Science", "cgpa": 4.5, "semesters": [{"semester_name": "2026/2027 First Semester", "courses": [{"course_code": "CSC101", "title": "Intro to Programming", "credit_units": 3, "ca_score": 30, "exam_score": 50, "total": 80, "grade": "A"}]}]}

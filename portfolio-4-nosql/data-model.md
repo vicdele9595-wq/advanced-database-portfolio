@@ -1,0 +1,2 @@
+# NoSQL Data Model
+MongoDB is used for student transcripts. We embed semesters and courses into the student document for fast O(1) read operations without joins. We reference course_code to maintain flexibility.
