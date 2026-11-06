@@ -1,5 +1,5 @@
 # Advanced Database Systems Portfolio (MIT 8103)
-**Student:** [Your Name, Matric Number]
+**Student:** Ayodele Victor
 **Case study:** University Student Result Portal
 
 ## Overview
